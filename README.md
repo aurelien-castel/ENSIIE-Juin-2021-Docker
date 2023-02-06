@@ -1,4 +1,11 @@
-# ENSIIE Web Project Skeleton
+
+# ENSIIE Web Project Docker
+
+Projet web avec application de docker comme infrastructure "serveless".
+
+cf. Rapport de projet web - ENSIIE.pdf
+
+# Setup
 
 ## Install your application
 This tutorial will guide you through the installation procedure of the Web Project Skeleton.   
